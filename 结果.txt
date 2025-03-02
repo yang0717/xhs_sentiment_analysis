@@ -1,0 +1,151 @@
+2024-12-04 09:13:30,087 - INFO - Epoch 1/50
+Train Loss: 0.6448, Train Acc: 0.5985, Train F1: 0.5913
+Val Loss: 0.5192, Val Acc: 0.7549, Val F1: 0.7540
+2024-12-04 09:17:22,530 - INFO - Epoch 2/50
+Train Loss: 0.4633, Train Acc: 0.7924, Train F1: 0.7905
+Val Loss: 0.4169, Val Acc: 0.8200, Val F1: 0.8185
+2024-12-04 09:21:13,502 - INFO - Epoch 3/50
+Train Loss: 0.4197, Train Acc: 0.8200, Train F1: 0.8170
+Val Loss: 0.3949, Val Acc: 0.8355, Val F1: 0.8330
+2024-12-04 09:24:38,519 - INFO - Epoch 4/50
+Train Loss: 0.4081, Train Acc: 0.8270, Train F1: 0.8240
+Val Loss: 0.3844, Val Acc: 0.8397, Val F1: 0.8374
+2024-12-04 09:28:32,983 - INFO - Epoch 5/50
+Train Loss: 0.3996, Train Acc: 0.8299, Train F1: 0.8271
+Val Loss: 0.3824, Val Acc: 0.8401, Val F1: 0.8381
+2024-12-04 09:31:55,588 - INFO - Epoch 6/50
+Train Loss: 0.3954, Train Acc: 0.8304, Train F1: 0.8276
+Val Loss: 0.3849, Val Acc: 0.8415, Val F1: 0.8394
+2024-12-04 09:36:00,908 - INFO - Epoch 7/50
+Train Loss: 0.3907, Train Acc: 0.8347, Train F1: 0.8321
+Val Loss: 0.3842, Val Acc: 0.8378, Val F1: 0.8361
+2024-12-04 09:39:48,057 - INFO - Epoch 8/50
+Train Loss: 0.3857, Train Acc: 0.8349, Train F1: 0.8323
+Val Loss: 0.3791, Val Acc: 0.8378, Val F1: 0.8357
+2024-12-04 09:44:24,841 - INFO - Epoch 9/50
+Train Loss: 0.3802, Train Acc: 0.8366, Train F1: 0.8339
+Val Loss: 0.3789, Val Acc: 0.8438, Val F1: 0.8416
+2024-12-04 09:48:18,464 - INFO - Epoch 10/50
+Train Loss: 0.3781, Train Acc: 0.8376, Train F1: 0.8350
+Val Loss: 0.3853, Val Acc: 0.8406, Val F1: 0.8386
+2024-12-04 09:54:08,006 - INFO - Epoch 11/50
+Train Loss: 0.3744, Train Acc: 0.8380, Train F1: 0.8354
+Val Loss: 0.3748, Val Acc: 0.8397, Val F1: 0.8377
+2024-12-04 09:58:12,720 - INFO - Epoch 12/50
+Train Loss: 0.3652, Train Acc: 0.8409, Train F1: 0.8386
+Val Loss: 0.3744, Val Acc: 0.8388, Val F1: 0.8368
+2024-12-04 10:01:54,250 - INFO - Epoch 13/50
+Train Loss: 0.3607, Train Acc: 0.8409, Train F1: 0.8389
+Val Loss: 0.3716, Val Acc: 0.8392, Val F1: 0.8375
+2024-12-04 10:05:25,174 - INFO - Epoch 14/50
+Train Loss: 0.3450, Train Acc: 0.8486, Train F1: 0.8475
+Val Loss: 0.3487, Val Acc: 0.8429, Val F1: 0.8414
+2024-12-04 10:09:24,437 - INFO - Epoch 15/50
+Train Loss: 0.3500, Train Acc: 0.8485, Train F1: 0.8473
+Val Loss: 0.3596, Val Acc: 0.8575, Val F1: 0.8575
+2024-12-04 10:12:50,698 - INFO - Epoch 16/50
+Train Loss: 0.3373, Train Acc: 0.8524, Train F1: 0.8518
+Val Loss: 0.3411, Val Acc: 0.8644, Val F1: 0.8636
+2024-12-04 10:16:31,184 - INFO - Epoch 17/50
+Train Loss: 0.3288, Train Acc: 0.8531, Train F1: 0.8525
+Val Loss: 0.3387, Val Acc: 0.8575, Val F1: 0.8567
+2024-12-04 10:20:37,504 - INFO - Epoch 18/50
+Train Loss: 0.3385, Train Acc: 0.8480, Train F1: 0.8477
+Val Loss: 0.3870, Val Acc: 0.8401, Val F1: 0.8385
+2024-12-04 10:24:31,061 - INFO - Epoch 19/50
+Train Loss: 0.3292, Train Acc: 0.8541, Train F1: 0.8537
+Val Loss: 0.3476, Val Acc: 0.8525, Val F1: 0.8513
+2024-12-04 10:28:27,350 - INFO - Epoch 20/50
+Train Loss: 0.3100, Train Acc: 0.8648, Train F1: 0.8645
+Val Loss: 0.3870, Val Acc: 0.8443, Val F1: 0.8427
+2024-12-04 10:32:20,783 - INFO - Epoch 21/50
+Train Loss: 0.3123, Train Acc: 0.8650, Train F1: 0.8647
+Val Loss: 0.3308, Val Acc: 0.8722, Val F1: 0.8718
+2024-12-04 10:35:19,411 - INFO - Epoch 22/50
+Train Loss: 0.3074, Train Acc: 0.8646, Train F1: 0.8644
+Val Loss: 0.3848, Val Acc: 0.8401, Val F1: 0.8389
+2024-12-04 10:38:18,094 - INFO - Epoch 23/50
+Train Loss: 0.3065, Train Acc: 0.8626, Train F1: 0.8625
+Val Loss: 0.3572, Val Acc: 0.8552, Val F1: 0.8543
+2024-12-04 10:41:16,529 - INFO - Epoch 24/50
+Train Loss: 0.3079, Train Acc: 0.8633, Train F1: 0.8632
+Val Loss: 0.3747, Val Acc: 0.8484, Val F1: 0.8472
+2024-12-04 10:44:15,166 - INFO - Epoch 25/50
+Train Loss: 0.2893, Train Acc: 0.8749, Train F1: 0.8749
+Val Loss: 0.3516, Val Acc: 0.8511, Val F1: 0.8500
+2024-12-04 10:47:13,760 - INFO - Epoch 26/50
+Train Loss: 0.2890, Train Acc: 0.8689, Train F1: 0.8688
+Val Loss: 0.3381, Val Acc: 0.8809, Val F1: 0.8807
+2024-12-04 10:50:12,485 - INFO - Epoch 27/50
+Train Loss: 0.2777, Train Acc: 0.8759, Train F1: 0.8758
+Val Loss: 0.3358, Val Acc: 0.8795, Val F1: 0.8795
+2024-12-04 10:53:10,900 - INFO - Epoch 28/50
+Train Loss: 0.2763, Train Acc: 0.8760, Train F1: 0.8760
+Val Loss: 0.3631, Val Acc: 0.8694, Val F1: 0.8694
+2024-12-04 10:56:09,402 - INFO - Epoch 29/50
+Train Loss: 0.2588, Train Acc: 0.8890, Train F1: 0.8890
+Val Loss: 0.3621, Val Acc: 0.8690, Val F1: 0.8690
+2024-12-04 10:59:16,771 - INFO - Epoch 30/50
+Train Loss: 0.2654, Train Acc: 0.8833, Train F1: 0.8833
+Val Loss: 0.3422, Val Acc: 0.8736, Val F1: 0.8736
+2024-12-04 11:03:17,313 - INFO - Epoch 31/50
+Train Loss: 0.2505, Train Acc: 0.8905, Train F1: 0.8905
+Val Loss: 0.3607, Val Acc: 0.8562, Val F1: 0.8555
+2024-12-04 11:06:44,958 - INFO - Epoch 32/50
+Train Loss: 0.2669, Train Acc: 0.8807, Train F1: 0.8807
+Val Loss: 0.3752, Val Acc: 0.8539, Val F1: 0.8530
+2024-12-04 11:10:53,832 - INFO - Epoch 33/50
+Train Loss: 0.2549, Train Acc: 0.8909, Train F1: 0.8909
+Val Loss: 0.4156, Val Acc: 0.8140, Val F1: 0.8122
+2024-12-04 11:15:02,371 - INFO - Epoch 34/50
+Train Loss: 0.2486, Train Acc: 0.8903, Train F1: 0.8903
+Val Loss: 0.3716, Val Acc: 0.8694, Val F1: 0.8692
+2024-12-04 11:18:29,496 - INFO - Epoch 35/50
+Train Loss: 0.2335, Train Acc: 0.9015, Train F1: 0.9015
+Val Loss: 0.3953, Val Acc: 0.8415, Val F1: 0.8410
+2024-12-04 11:21:57,899 - INFO - Epoch 36/50
+Train Loss: 0.2325, Train Acc: 0.8985, Train F1: 0.8985
+Val Loss: 0.3989, Val Acc: 0.8369, Val F1: 0.8364
+2024-12-04 11:26:01,302 - INFO - Epoch 37/50
+Train Loss: 0.2303, Train Acc: 0.8986, Train F1: 0.8986
+Val Loss: 0.4273, Val Acc: 0.8255, Val F1: 0.8244
+2024-12-04 11:29:27,813 - INFO - Epoch 38/50
+Train Loss: 0.2320, Train Acc: 0.8976, Train F1: 0.8976
+Val Loss: 0.3772, Val Acc: 0.8740, Val F1: 0.8740
+2024-12-04 11:33:23,028 - INFO - Epoch 39/50
+Train Loss: 0.2226, Train Acc: 0.9019, Train F1: 0.9019
+Val Loss: 0.4187, Val Acc: 0.8369, Val F1: 0.8363
+2024-12-04 11:37:25,706 - INFO - Epoch 40/50
+Train Loss: 0.2171, Train Acc: 0.9038, Train F1: 0.9038
+Val Loss: 0.4382, Val Acc: 0.8181, Val F1: 0.8167
+2024-12-04 11:41:28,198 - INFO - Epoch 41/50
+Train Loss: 0.2155, Train Acc: 0.9057, Train F1: 0.9057
+Val Loss: 0.4157, Val Acc: 0.8548, Val F1: 0.8547
+2024-12-04 11:45:30,679 - INFO - Epoch 42/50
+Train Loss: 0.2023, Train Acc: 0.9118, Train F1: 0.9118
+Val Loss: 0.3803, Val Acc: 0.8827, Val F1: 0.8827
+2024-12-04 11:49:35,703 - INFO - Epoch 43/50
+Train Loss: 0.2103, Train Acc: 0.9077, Train F1: 0.9077
+Val Loss: 0.4062, Val Acc: 0.8635, Val F1: 0.8634
+2024-12-04 11:53:38,717 - INFO - Epoch 44/50
+Train Loss: 0.1967, Train Acc: 0.9142, Train F1: 0.9142
+Val Loss: 0.4303, Val Acc: 0.8461, Val F1: 0.8457
+2024-12-04 11:57:40,460 - INFO - Epoch 45/50
+Train Loss: 0.1948, Train Acc: 0.9173, Train F1: 0.9173
+Val Loss: 0.4115, Val Acc: 0.8731, Val F1: 0.8730
+2024-12-04 12:01:43,829 - INFO - Epoch 46/50
+Train Loss: 0.1909, Train Acc: 0.9159, Train F1: 0.9159
+Val Loss: 0.4092, Val Acc: 0.8827, Val F1: 0.8827
+2024-12-04 12:05:46,697 - INFO - Epoch 47/50
+Train Loss: 0.1879, Train Acc: 0.9198, Train F1: 0.9198
+Val Loss: 0.4786, Val Acc: 0.8415, Val F1: 0.8409
+2024-12-04 12:09:49,393 - INFO - Epoch 48/50
+Train Loss: 0.1788, Train Acc: 0.9245, Train F1: 0.9245
+Val Loss: 0.4419, Val Acc: 0.8543, Val F1: 0.8542
+2024-12-04 12:13:51,517 - INFO - Epoch 49/50
+Train Loss: 0.1731, Train Acc: 0.9250, Train F1: 0.9249
+Val Loss: 0.4336, Val Acc: 0.8626, Val F1: 0.8625
+2024-12-04 12:17:54,985 - INFO - Epoch 50/50
+Train Loss: 0.1657, Train Acc: 0.9314, Train F1: 0.9314
+Val Loss: 0.4401, Val Acc: 0.8749, Val F1: 0.8749
+2024-12-04 12:17:55,699 - INFO - Training complete. Best validation accuracy: 0.8827
